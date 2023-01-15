@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, Ashish here 👋
+- 🌱 I’m currently pursuing my master's in Computer Science from the University of Florida.
+- 👯 I’m looking to collaborate on projects related to Machine Learning.
+- 💬 Feel free to ask me about anything, especially about my projects!
+- 📫 How to reach me: ashsunabr99@gmail.com
 <!--
 **ashsunabr99/ashsunabr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
